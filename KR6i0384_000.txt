@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說大乘造像功德經
+#+DATE: 2015-08-30 20:17:44.722448
+#+PROPERTY: JUAN 0
