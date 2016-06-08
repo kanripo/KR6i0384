@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:44.533557
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:25
 #+TITLE: 佛說大乘造像功德經
 #+PROPERTY: CBETA_ID T16n0694
 #+PROPERTY: ID KR6i0384
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 694
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0384_T_000-0790a>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0384_T_002-0793b> ¶¶
 #+PROPERTY: JUAN 2
 ¶
-
- 《佛說大乘造像功德經》卷下¶
+《佛說大乘造像功德經》卷下¶
 ¶
 大唐于闐三藏提雲般若奉　制譯¶
 
@@ -291,7 +290,7 @@
 「彌勒！¶
 復有四緣，令諸男子其心常生女人愛欲，樂
 <pb:KR6i0384_T_002-0796a>¶
-他於己行丈夫事。何等為四？一者、或嫌或戲，¶
+他於已行丈夫事。何等為四？一者、或嫌或戲，¶
 謗毀於人；二者、樂作女人，衣服莊飾；三者、於¶
 親族女行婬穢事；四者、實無勝德，妄受其禮。¶
 以此因緣，令諸丈夫起於如是別異煩惱。若¶
